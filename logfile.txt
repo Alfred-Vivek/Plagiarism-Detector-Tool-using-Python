@@ -1,0 +1,270 @@
+----------------------------------------2017-08-26 14:54:45.421859----------------------------------------
+Text Files present in the directory : ['f1', 'f2', 'f3', 'f4', 'f5', 'f6']
+Plagiarism detected using Bag Of Words Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	27% 	100%	46% 	30% 	36% 	
+
+f2  	27% 	SF  	27% 	25% 	46% 	16% 	
+
+f3  	100%	27% 	SF  	46% 	30% 	36% 	
+
+f4  	46% 	25% 	46% 	SF  	39% 	88% 	
+
+f5  	30% 	46% 	30% 	39% 	SF  	32% 	
+
+f6  	36% 	16% 	36% 	88% 	32% 	SF  	
+
+
+
+Plagiarism detected using Longest Common Substring Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	2%  	100%	1%  	1%  	2%  	
+
+f2  	2%  	SF  	2%  	1%  	1%  	1%  	
+
+f3  	100%	2%  	SF  	1%  	1%  	2%  	
+
+f4  	1%  	1%  	1%  	SF  	1%  	67% 	
+
+f5  	1%  	1%  	1%  	1%  	SF  	1%  	
+
+f6  	2%  	1%  	2%  	67% 	1%  	SF  	
+
+
+
+Plagiarism detected using Fingerprinting Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	5%  	100%	1%  	2%  	1%  	
+
+f2  	5%  	SF  	5%  	2%  	2%  	1%  	
+
+f3  	100%	5%  	SF  	1%  	2%  	1%  	
+
+f4  	1%  	2%  	1%  	SF  	4%  	67% 	
+
+f5  	2%  	2%  	2%  	4%  	SF  	3%  	
+
+f6  	1%  	1%  	1%  	67% 	3%  	SF  	
+
+----------------------------------------2017-09-12 14:13:07.585274----------------------------------------
+Text Files present in the directory : ['f1', 'f2', 'f3', 'f4', 'f5', 'f6']
+Plagiarism detected using Bag Of Words Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	27% 	100%	46% 	30% 	36% 	
+
+f2  	27% 	SF  	27% 	25% 	46% 	16% 	
+
+f3  	100%	27% 	SF  	46% 	30% 	36% 	
+
+f4  	46% 	25% 	46% 	SF  	39% 	88% 	
+
+f5  	30% 	46% 	30% 	39% 	SF  	32% 	
+
+f6  	36% 	16% 	36% 	88% 	32% 	SF  	
+
+
+
+Plagiarism detected using Longest Common Substring Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	2%  	100%	1%  	1%  	2%  	
+
+f2  	2%  	SF  	2%  	1%  	1%  	1%  	
+
+f3  	100%	2%  	SF  	1%  	1%  	2%  	
+
+f4  	1%  	1%  	1%  	SF  	1%  	67% 	
+
+f5  	1%  	1%  	1%  	1%  	SF  	1%  	
+
+f6  	2%  	1%  	2%  	67% 	1%  	SF  	
+
+
+
+Plagiarism detected using Fingerprinting Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	5%  	100%	1%  	2%  	1%  	
+
+f2  	5%  	SF  	5%  	2%  	2%  	1%  	
+
+f3  	100%	5%  	SF  	1%  	2%  	1%  	
+
+f4  	1%  	2%  	1%  	SF  	4%  	67% 	
+
+f5  	2%  	2%  	2%  	4%  	SF  	3%  	
+
+f6  	1%  	1%  	1%  	67% 	3%  	SF  	
+
+----------------------------------------2017-09-12 17:12:21.417803----------------------------------------
+Text Files present in the directory : ['f1', 'f2', 'f3', 'f4', 'f5', 'f6']
+Plagiarism detected using Bag Of Words Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	27% 	100%	46% 	30% 	36% 	
+
+f2  	27% 	SF  	27% 	25% 	46% 	16% 	
+
+f3  	100%	27% 	SF  	46% 	30% 	36% 	
+
+f4  	46% 	25% 	46% 	SF  	39% 	88% 	
+
+f5  	30% 	46% 	30% 	39% 	SF  	32% 	
+
+f6  	36% 	16% 	36% 	88% 	32% 	SF  	
+
+
+
+Plagiarism detected using Longest Common Substring Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	2%  	100%	1%  	1%  	2%  	
+
+f2  	2%  	SF  	2%  	1%  	1%  	1%  	
+
+f3  	100%	2%  	SF  	1%  	1%  	2%  	
+
+f4  	1%  	1%  	1%  	SF  	1%  	67% 	
+
+f5  	1%  	1%  	1%  	1%  	SF  	1%  	
+
+f6  	2%  	1%  	2%  	67% 	1%  	SF  	
+
+
+
+Plagiarism detected using Fingerprinting Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	5%  	100%	1%  	2%  	1%  	
+
+f2  	5%  	SF  	5%  	2%  	2%  	1%  	
+
+f3  	100%	5%  	SF  	1%  	2%  	1%  	
+
+f4  	1%  	2%  	1%  	SF  	4%  	67% 	
+
+f5  	2%  	2%  	2%  	4%  	SF  	3%  	
+
+f6  	1%  	1%  	1%  	67% 	3%  	SF  	
+
+----------------------------------------2017-09-14 10:59:46.978356----------------------------------------
+Text Files present in the directory : ['f1', 'f2', 'f3', 'f4', 'f5', 'f6']
+Plagiarism detected using Bag Of Words Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	27% 	100%	46% 	30% 	36% 	
+
+f2  	27% 	SF  	27% 	25% 	46% 	16% 	
+
+f3  	100%	27% 	SF  	46% 	30% 	36% 	
+
+f4  	46% 	25% 	46% 	SF  	39% 	88% 	
+
+f5  	30% 	46% 	30% 	39% 	SF  	32% 	
+
+f6  	36% 	16% 	36% 	88% 	32% 	SF  	
+
+
+
+Plagiarism detected using Longest Common Substring Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	2%  	100%	1%  	1%  	2%  	
+
+f2  	2%  	SF  	2%  	1%  	1%  	1%  	
+
+f3  	100%	2%  	SF  	1%  	1%  	2%  	
+
+f4  	1%  	1%  	1%  	SF  	1%  	67% 	
+
+f5  	1%  	1%  	1%  	1%  	SF  	1%  	
+
+f6  	2%  	1%  	2%  	67% 	1%  	SF  	
+
+
+
+Plagiarism detected using Fingerprinting Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	5%  	100%	1%  	2%  	1%  	
+
+f2  	5%  	SF  	5%  	2%  	2%  	1%  	
+
+f3  	100%	5%  	SF  	1%  	2%  	1%  	
+
+f4  	1%  	2%  	1%  	SF  	4%  	67% 	
+
+f5  	2%  	2%  	2%  	4%  	SF  	3%  	
+
+f6  	1%  	1%  	1%  	67% 	3%  	SF  	
+
+----------------------------------------2017-09-14 14:27:21.220934----------------------------------------
+Text Files present in the directory : ['f1', 'f2', 'f3', 'f4', 'f5', 'f6']
+Plagiarism detected using Bag Of Words Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	27% 	100%	46% 	30% 	36% 	
+
+f2  	27% 	SF  	27% 	25% 	46% 	16% 	
+
+f3  	100%	27% 	SF  	46% 	30% 	36% 	
+
+f4  	46% 	25% 	46% 	SF  	39% 	88% 	
+
+f5  	30% 	46% 	30% 	39% 	SF  	32% 	
+
+f6  	36% 	16% 	36% 	88% 	32% 	SF  	
+
+
+
+Plagiarism detected using Longest Common Substring Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	2%  	100%	1%  	1%  	2%  	
+
+f2  	2%  	SF  	2%  	1%  	1%  	1%  	
+
+f3  	100%	2%  	SF  	1%  	1%  	2%  	
+
+f4  	1%  	1%  	1%  	SF  	1%  	67% 	
+
+f5  	1%  	1%  	1%  	1%  	SF  	1%  	
+
+f6  	2%  	1%  	2%  	67% 	1%  	SF  	
+
+
+
+Plagiarism detected using Fingerprinting Technique!!
+
+FN  	f1  	f2  	f3  	f4  	f5  	f6  	
+
+f1  	SF  	5%  	100%	1%  	2%  	1%  	
+
+f2  	5%  	SF  	5%  	2%  	2%  	1%  	
+
+f3  	100%	5%  	SF  	1%  	2%  	1%  	
+
+f4  	1%  	2%  	1%  	SF  	4%  	67% 	
+
+f5  	2%  	2%  	2%  	4%  	SF  	3%  	
+
+f6  	1%  	1%  	1%  	67% 	3%  	SF  	
+
